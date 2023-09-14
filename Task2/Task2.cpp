@@ -1,5 +1,5 @@
 ﻿#define CATCH_CONFIG_MAIN
-#include "catch_amalgamated.hpp"
+#include "../catch_amalgamated.hpp"
 #include "list_class.h"
 
 TEST_CASE("PushFront inserts a new element at the beginning of a list", "[List]") {

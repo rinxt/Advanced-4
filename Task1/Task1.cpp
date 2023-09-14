@@ -1,5 +1,5 @@
 ﻿#define CATCH_CONFIG_MAIN
-#include "catch_amalgamated.hpp"
+#include "../catch_amalgamated.hpp"
 #include "list_class.h"
 
 TEST_CASE("Empty() returns true for an empty list and false for a non-empty list", "[List]") {
